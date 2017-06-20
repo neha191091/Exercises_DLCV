@@ -2,3 +2,6 @@
 **/models/*
 virtualEnv/*
 **/datasets/*
+**/Research/*
+**/possible_datasets_for_project/*
+convolutional_classification/*
