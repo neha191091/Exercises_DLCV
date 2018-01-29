@@ -1,1 +1,1 @@
-# practical_dlrw
+# Exercises for Deep Learning for Comuter Vision
